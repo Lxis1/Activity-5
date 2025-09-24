@@ -1,0 +1,132 @@
+.first{
+
+    text-align: center;
+    background-color: antiquewhite;
+    color: #926464;
+
+   width: 500px;
+   margin: 20px auto;
+
+}
+.second{
+    text-align: center;
+    color: rgb(207, 195, 194);
+}
+a{
+    
+    text-align: center;
+    text-decoration: none;
+    color: #7d3939;
+    line-height: 3.0;
+}
+.outerborder{
+    text-align: center;
+    background-color: antiquewhite;
+ margin: 100px auto;
+ width: 700px;
+ height: 400px;
+}
+.innerborder{
+      background-color: hsl(0, 83%, 84%);
+      margin: 10px auto;
+      width: 500px;
+      height: 100px;
+
+}
+.outerborder:hover{
+    color: #fff2f2;
+}
+.innerborder2{
+      background-color: hsl(0, 83%, 84%);
+      margin: 50px auto;
+      width: 500px;
+      height: 100px;
+}
+.innerborder3{
+      background-color: hsl(0, 83%, 84%);
+    
+      margin: 50px auto;
+      width: 500px;
+      height: 100px;
+}
+/*kutub sa taas kay code style sa akong css sa INDEX*/
+
+.prof{
+    text-align: center;
+    background-color: antiquewhite;
+    color: #926464;
+    line-height: 1.5;
+   width: 500px;
+   height: 100px;
+   margin: 20px auto;
+}
+.innerborder4{
+    text-align: center;
+    padding: 0px;
+      background-color: hsl(0, 83%, 84%);
+      
+      margin: 50px auto;
+      width: 500px;
+      height: 100px;
+}
+.outerborder2{
+    background-color: antiquewhite;
+    
+
+}
+img{
+    display: block;
+    margin: 10px auto;
+    width: 10%;
+}
+.aboutt{
+     text-align: center;
+    background-color: antiquewhite;
+    color: #926464;
+    line-height: 1.5;
+   
+   width: 500px;
+   height: 100px;
+   margin: 20px auto;
+   line-height: 3.0;
+}
+.outerborder3{
+    text-align: center;
+    background-color: antiquewhite;
+    
+ margin: 100px auto;
+ width: 1050px;
+ height: 500px;
+
+}
+.innerborder6{
+        text-align: center;
+    padding: 0px;
+      background-color: hsl(0, 83%, 84%);
+      margin: 50px auto;
+      width: 500px;
+      height: 100px;
+
+}
+.hob{
+     text-align: center;
+    text-decoration: none;
+    color: #7d3939;
+    line-height: 3.0;
+      background-color: hsl(0, 83%, 84%);
+      margin: 50px auto;
+      width: 500px;
+      height: 100px;
+}
+ul{
+    color: #7d3939;
+}
+ol{
+    color: #7d3939;
+}
+p{
+    color: #7d3939;
+}
+.para{
+    text-align: center;
+}
